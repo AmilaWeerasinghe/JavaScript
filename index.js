@@ -22,4 +22,24 @@ person['nameOne']='Pasan';
 
 console.log(person.nameOne);
 
+let selectedColours=['red','blue'];
+selectedColours[2]='green';
+selectedColours[3]=1;
+console.log(selectedColours);
 
+//array is a object in JS
+console.log(selectedColours.length);
+
+//functions
+
+function greet(name,lastName){
+    console.log('Hello '+ name+' '+ lastName);
+}
+
+greet('Amila','Weerasinghe');
+
+function square(number){
+return number*number;
+}
+
+console.log(square(2));
