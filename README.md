@@ -15,3 +15,4 @@ Master Javascript
 9.Dynamic Language(Auto assing of type to varaibles according to our input)
 10.REfernce typre (Objects ,Arrays, Functions)
 11.In Objects dot notaion is much easier than Bracket Notaion. (But for user input situations it is better to user bracket Notation in dynamic way)
+12.Array-Different types can be found in array
